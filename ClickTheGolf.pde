@@ -59,7 +59,7 @@ void draw() {
   }
   
   // Showing score and result during the game
-  fill(#4D07F2);
+  fill(#FFFFFF);
   textSize(42);
   text("TIME: "+ timer, 450, height/2);
   text("Score: "+(mouseCounter-1), 450, height/4);
